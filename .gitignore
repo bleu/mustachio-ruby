@@ -23,3 +23,6 @@
 /tmp/
 /Gemfile.lock
 /spec/examples.txt
+
+# Built gem files
+*.gem
